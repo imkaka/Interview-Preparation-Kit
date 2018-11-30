@@ -12,7 +12,7 @@
  Space Complexity: Many implementations of std::sort rely on a hybrid of merge sort and
   quicksort, so roughly O(log(n)) or O(n).
 
-  */
+*/
 
 #include <string>
 #include <algorithm>
